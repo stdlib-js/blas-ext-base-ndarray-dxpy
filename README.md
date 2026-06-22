@@ -60,7 +60,7 @@ This API is a specialized version of the package [`@stdlib/blas-ext/base/ndarray
 ## Usage
 
 ```javascript
-import dxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dxpy@esm/index.mjs';
+import dxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dxpy@v0.0.0-esm/index.mjs';
 ```
 
 #### dxpy( arrays )
@@ -112,7 +112,7 @@ The function has the following parameters:
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-discrete-uniform@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import dxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dxpy@esm/index.mjs';
+import dxpy from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dxpy@v0.0.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
