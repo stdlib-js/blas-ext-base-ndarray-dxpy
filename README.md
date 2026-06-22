@@ -225,7 +225,7 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/blas-ext-base-ndarray-dxpy/main/LICENSE
 
-[@stdlib/blas/ext/base/ndarray/daxpby]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/@stdlib/blas/ext/base/ndarray/daxpby
+[@stdlib/blas/ext/base/ndarray/daxpby]: https://github.com/stdlib-js/blas-ext-base-ndarray-daxpby
 
 </section>
 
