@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-30)
+## Unreleased (2026-09-01)
 
 <section class="features">
 
@@ -23,6 +23,8 @@
 
 <details>
 
+-   [`7f6bdb8`](https://github.com/stdlib-js/stdlib/commit/7f6bdb83e2293a2f8491934ce00b58045d4a6178) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`7fe0108`](https://github.com/stdlib-js/stdlib/commit/7fe0108030637ada481130ef97d785e239e7b0dc) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`7bf51f6`](https://github.com/stdlib-js/stdlib/commit/7bf51f6a58ad4ec8f414ee9b9541547d0e25ceaa) - **feat:** add C implementation for `blas/ext/base/ndarray/dxpy` [(#14806)](https://github.com/stdlib-js/stdlib/pull/14806) _(by Arjan-P, Athan Reines)_
 -   [`d826990`](https://github.com/stdlib-js/stdlib/commit/d826990e554527589aae2026d63c616d8663f05f) - **docs:** update function descriptions [(#13044)](https://github.com/stdlib-js/stdlib/pull/13044) _(by Karan Anand)_
 -   [`ab50f59`](https://github.com/stdlib-js/stdlib/commit/ab50f59f75c9074346747fe1d71fcf55bda1db2f) - **docs:** update Markdown stdlib package URLs [(#13038)](https://github.com/stdlib-js/stdlib/pull/13038) _(by stdlib-bot)_
